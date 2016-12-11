@@ -6,6 +6,6 @@ As a part of EC602 course assignment, this solver is being done in two different
 2) Identify the combinations that appropriately fit the spaces provided.
 
 Date: 12/10/2016
-Place: Boston University
+
 
 
